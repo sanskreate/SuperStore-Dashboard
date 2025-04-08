@@ -61,7 +61,7 @@ This project focuses on creating compelling, interactive visualizations using Ta
 
 ## 🔗 Links
 
-- [📍 Tableu Public Project (View Here)](https://public.tableau.com/views/TASK2-SuperStore/ProfitandCategories?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+- [📍 Tableu Public Project (View Here)](https://public.tableau.com/views/TASK2-SuperStore/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - [📁 Dataset](./Superstore.csv)
 
 ---
